@@ -1,0 +1,49 @@
+﻿Installing assembly 'D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog
+   assemblypath = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly.
+Committing assembly 'D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog
+   assemblypath = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog
+   assemblypath = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly.
+Committing assembly 'D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog
+   assemblypath = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog
+   assemblypath = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+Rolling back assembly 'D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog
+   assemblypath = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+Installing assembly 'D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog
+   assemblypath = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+Installing service FileProcessor...
+Service FileProcessor has been successfully installed.
+Creating EventLog source FileProcessor in log Application...
+Committing assembly 'D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog
+   assemblypath = D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe

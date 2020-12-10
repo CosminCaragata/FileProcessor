@@ -1,0 +1,10 @@
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe.config
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.pdb
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\obj\Debug\FileProcessor.csproj.CoreCompileInputs.cache
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\obj\Debug\FileProcessor.exe
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\obj\Debug\FileProcessor.pdb
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\obj\Debug\FileProcessor.FileProcessorService.resources
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\obj\Debug\FileProcessor.ProjectInstaller.resources
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\obj\Debug\FileProcessor.csproj.GenerateResource.cache
+D:\Practice\FileProcessor\FileProcessor\FileProcessor\obj\Debug\FileProcessor.csprojAssemblyReference.cache

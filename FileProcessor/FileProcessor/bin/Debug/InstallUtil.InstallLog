@@ -1,0 +1,60 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly's progress.
+The file is located at D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly's progress.
+The file is located at D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly's progress.
+The file is located at D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly's progress.
+The file is located at D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly's progress.
+The file is located at D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog.
+
+An exception occurred during the Install phase.
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly's progress.
+The file is located at D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly's progress.
+The file is located at D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe assembly's progress.
+The file is located at D:\Practice\FileProcessor\FileProcessor\FileProcessor\bin\Debug\FileProcessor.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
