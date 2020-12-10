@@ -1,0 +1,9 @@
+D:\Practice\2FAProject\2FAProject\bin\Debug\2FAProject.exe.config
+D:\Practice\2FAProject\2FAProject\bin\Debug\2FAProject.exe
+D:\Practice\2FAProject\2FAProject\bin\Debug\2FAProject.pdb
+D:\Practice\2FAProject\2FAProject\obj\Debug\_2FAProject.Form1.resources
+D:\Practice\2FAProject\2FAProject\obj\Debug\_2FAProject.Properties.Resources.resources
+D:\Practice\2FAProject\2FAProject\obj\Debug\2FAProject.csproj.GenerateResource.cache
+D:\Practice\2FAProject\2FAProject\obj\Debug\2FAProject.csproj.CoreCompileInputs.cache
+D:\Practice\2FAProject\2FAProject\obj\Debug\2FAProject.exe
+D:\Practice\2FAProject\2FAProject\obj\Debug\2FAProject.pdb
